@@ -16,6 +16,7 @@
 		0A48409528CD2CCC0013A668 /* LoginPageWithUserDefaultTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A48409428CD2CCC0013A668 /* LoginPageWithUserDefaultTests.swift */; };
 		0A48409F28CD2CCC0013A668 /* LoginPageWithUserDefaultUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A48409E28CD2CCC0013A668 /* LoginPageWithUserDefaultUITests.swift */; };
 		0A4840A128CD2CCC0013A668 /* LoginPageWithUserDefaultUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A4840A028CD2CCC0013A668 /* LoginPageWithUserDefaultUITestsLaunchTests.swift */; };
+		0A4840AE28CD435F0013A668 /* ViewControllerMainPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A4840AD28CD435F0013A668 /* ViewControllerMainPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0A48409A28CD2CCC0013A668 /* LoginPageWithUserDefaultUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LoginPageWithUserDefaultUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A48409E28CD2CCC0013A668 /* LoginPageWithUserDefaultUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPageWithUserDefaultUITests.swift; sourceTree = "<group>"; };
 		0A4840A028CD2CCC0013A668 /* LoginPageWithUserDefaultUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPageWithUserDefaultUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0A4840AD28CD435F0013A668 /* ViewControllerMainPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerMainPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				0A48408628CD2CCC0013A668 /* Assets.xcassets */,
 				0A48408828CD2CCC0013A668 /* LaunchScreen.storyboard */,
 				0A48408B28CD2CCC0013A668 /* Info.plist */,
+				0A4840AD28CD435F0013A668 /* ViewControllerMainPage.swift */,
 			);
 			path = LoginPageWithUserDefault;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A4840AE28CD435F0013A668 /* ViewControllerMainPage.swift in Sources */,
 				0A48408228CD2CCB0013A668 /* ViewController.swift in Sources */,
 				0A48407E28CD2CCB0013A668 /* AppDelegate.swift in Sources */,
 				0A48408028CD2CCB0013A668 /* SceneDelegate.swift in Sources */,
